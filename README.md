@@ -1,6 +1,7 @@
 # Scrapy-Mercadolibre
-
-*******************Desactualizado*********************
+---------------------------------
+*Desactualizado*
+---------------------------------
 Scrapy de mercadolibre
 
 Bot de scrapy python para descargar información de productos de mercadolibre.
