@@ -1,6 +1,6 @@
 # Scrapy-Mercadolibre
 ---------------------------------
-*Desactualizado*
+*deprecado*
 ---------------------------------
 Scrapy de mercadolibre
 
